@@ -130,7 +130,7 @@ body.nav-open {
 
 /* ---------- Notebook / tablet largo (≤1200px) ---------- */
 @media (max-width: 1200px) {
-  nav {
+  .site-nav {
     padding: 1.25rem 2rem;
   }
 
@@ -171,7 +171,7 @@ body.nav-open {
     --nav-offset: calc(1rem + 32px + 1rem);
   }
 
-  nav {
+  .site-nav {
     padding: 1rem 1.25rem;
   }
 
